@@ -4,19 +4,19 @@
             "title": "OffGrid Mesh",
             "desc": "Engineered a serverless peer-to-peer mobile messaging network using Google Nearby Connections (P2P_CLUSTER), facilitating off-grid communications across 30-100m radio radiuses[cite: 1].",
             "tech": ["Kotlin", "Jetpack Compose", "BLE", "Wi-Fi Direct"],
-            "link": "https://github.com/chirag-exists"
+            "link": "https://github.com/chirag-exists/Ozone"
         },
         {
             "title": "Smart Grid Load Visualizer",
             "desc": "Built an analytical distribution model to monitor, simulate, and visualize real-time power grid load variations and branch capacity metrics with interactive time-series dashboards[cite: 1].",
             "tech": ["Python", "Pandas", "Matplotlib", "Data Visualization"],
-            "link": "https://github.com/chirag-exists"
+            "link": "https://github.com/chirag-exists/Smart-Grid--Visualiser"
         },
         {
             "title": "Automated Attendance Tracking Pipeline",
             "desc": "Developed an end-to-end automation workflow utilizing Selenium and UiPath to extract, validate, and synchronize multi-source attendance records into scheduled audit reports[cite: 1].",
             "tech": ["Python", "Selenium", "UiPath", "Automation"],
-            "link": "https://github.com/chirag-exists"
+            "link": "https://github.com/chirag-exists/Attendance-tracker"
         },
         {
             "title": "A* Pathfinding Visualizer",
