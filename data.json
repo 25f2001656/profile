@@ -1,22 +1,28 @@
-{   
+{    
     "projects": [
         {
+            "title": "OffGrid Mesh",
+            "desc": "Engineered a serverless peer-to-peer mobile messaging network using Google Nearby Connections (P2P_CLUSTER), facilitating off-grid communications across 30-100m radio radiuses[cite: 1].",
+            "tech": ["Kotlin", "Jetpack Compose", "BLE", "Wi-Fi Direct"],
+            "link": "https://github.com/chirag-exists"
+        },
+        {
+            "title": "Smart Grid Load Visualizer",
+            "desc": "Built an analytical distribution model to monitor, simulate, and visualize real-time power grid load variations and branch capacity metrics with interactive time-series dashboards[cite: 1].",
+            "tech": ["Python", "Pandas", "Matplotlib", "Data Visualization"],
+            "link": "https://github.com/chirag-exists"
+        },
+        {
+            "title": "Automated Attendance Tracking Pipeline",
+            "desc": "Developed an end-to-end automation workflow utilizing Selenium and UiPath to extract, validate, and synchronize multi-source attendance records into scheduled audit reports[cite: 1].",
+            "tech": ["Python", "Selenium", "UiPath", "Automation"],
+            "link": "https://github.com/chirag-exists"
+        },
+        {
             "title": "A* Pathfinding Visualizer",
-            "desc": "An interactive tool developed to visualize the A* search algorithm, helping users understand how pathfinding logic finds the most efficient route.",
-            "tech": ["Python", "Algorithms"],
+            "desc": "Designed an interactive visualizer for the A* search algorithm to demonstrate heuristic evaluations across dynamic obstacle maps and benchmark shortest-path optimality[cite: 1].",
+            "tech": ["Python", "Pygame", "Graph Algorithms"],
             "link": "https://github.com/chirag-exists/A-Star-Pathfinding"
-        },
-        {
-            "title": "Finance Lens (Finaura)",
-            "desc": "A comprehensive personal finance management application designed to track expenses and provide insights into spending habits.",
-            "tech": ["Web Dev", "Data Visualization"],
-            "link": "https://github.com/chirag-exists/Finaura"
-        },
-        {
-            "title": "Abhyas",
-            "desc": "A student helper mobile application built to streamline academic tasks and organization, developed using Firebase Studio.",
-            "tech": ["Firebase", "Mobile Dev"],
-            "link": "https://github.com/chirag-exists/Abhyas_"
         }
     ],
     "achievements": [
